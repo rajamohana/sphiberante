@@ -6,11 +6,7 @@ private String name;
 private float salary;
 private int nameis;
 private int second;
-//this is second commit
-//this is third commit
-//this is fourth ommit
-//this is sixth commit
-//hi this is seventh commit
+
 public int getId() {
 	return id;
 }
