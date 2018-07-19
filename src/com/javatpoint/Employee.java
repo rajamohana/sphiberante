@@ -1,6 +1,8 @@
 package com.javatpoint;
 
 public class Employee {
+	
+	//welcome to the java profile
 private int id;
 private String name;
 private float salary;
