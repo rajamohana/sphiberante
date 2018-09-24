@@ -4,6 +4,7 @@ public class Employee {
 	
 	//welcome to the java profile i love india
 	//hi baby how are u nana
+	//java is a programing language
 private int id;
 private String name;
 private float salary;
